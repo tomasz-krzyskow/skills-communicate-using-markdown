@@ -2,6 +2,13 @@
 ### This is a nice course
 ###### Chapter One
 
-![Image of Tomasz 123](https://octodex.github.com/images/yaktocat.png)
-
 ###### Chapter Two
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
